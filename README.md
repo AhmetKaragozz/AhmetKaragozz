@@ -1,0 +1,8 @@
+- Hello! My name is @AhmetKaragozz.
+- I'm 20 years old.
+- I'm From İstanbul. 
+- I'm a student at İstanbul Topkapı University.
+- My speciality is [will be :) ] Game Development and C#.
+- My goal is making AAA quality games and make have people fun.
+- I am at the beginin of the journey. So i will share everything i learned. 
+- Okay that was all i wanna say see ya :)
